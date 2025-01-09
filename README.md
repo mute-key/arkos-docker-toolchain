@@ -1,4 +1,4 @@
-# ArkOS Docker SDK
+# ArkOS Docker toolchain 
 
 ArkOS is a linux distribution based on Ubuntu 19.10. For simplicity, I made
 a Docker to build quicker my apps on my computer.
